@@ -143,7 +143,7 @@ This application is optimized for long-duration recordings:
 
 1. **Driver Not Found**: Ensure PicoSDK is properly installed
 2. **Device Not Detected**: Check USB connection and driver installation
-3. **Memory Issues**: The application uses minimal memory; check system resources
+3. **Memory Issues**: The application should use minimal memory; check system resources
 4. **Permission Errors**: Run as administrator if needed for device access
 
 ### Log Files
