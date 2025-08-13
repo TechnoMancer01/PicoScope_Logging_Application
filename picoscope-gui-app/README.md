@@ -115,7 +115,6 @@ The executable will be created in the `dist/` directory.
 This application is optimized for long-duration recordings:
 - **Streaming Approach**: Data is written directly to CSV without large memory buffers
 - **Memory Efficient**: ~50-100 MB total usage regardless of recording duration
-- **Raspberry Pi Compatible**: Tested on various Pi models
 
 ## Dependencies
 
